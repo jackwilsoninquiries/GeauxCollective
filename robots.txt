@@ -1,0 +1,11 @@
+# robots.txt — Geaux Collective
+# https://geauxcollective.com
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://geauxcollective.com/sitemap.xml
+
+# Block any CDN or cache scripts from being indexed
+Disallow: /cdn-cgi/
